@@ -45,36 +45,85 @@
 
 <br/>
 
-> *A little corner of the internet where I keep the things I've built, and the things I'm building next.*
+<div align="center">
 
-### 🎀 About
+<svg width="300" height="26" viewBox="0 0 300 26" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="13" x2="128" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+  <circle cx="150" cy="13" r="4" fill="#C77BA6"/>
+  <circle cx="138" cy="13" r="2.3" fill="#F0D9A8"/>
+  <circle cx="162" cy="13" r="2.3" fill="#F0D9A8"/>
+  <line x1="172" y1="13" x2="300" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+</svg>
 
-| | |
-|---|---|
-| 🎓 | Completing my National Diploma in ICT (NVQ Level 5) |
-| 💻 | I build with **HTML, CSS, JavaScript, Java** and **React Native** |
-| 🌿 | Started out as an ICT Technician, now writing code instead of tickets |
-| 🏀 | Ex school basketball captain — still bring the same focus to shipping things |
-| 🌍 | Open to software internships and junior roles, remote or onsite |
-| 🦋 | I like making plain things a little more beautiful — this profile included |
+</div>
 
-<br/>
+<p align="center"><i>A little corner of the internet where I keep the things I've built, and the things I'm building next.</i></p>
 
-### 🌸 Tech Stack
+### 🎀 &nbsp;About
+
+<table>
+<tr><td>🎓</td><td>Completing my National Diploma in ICT (NVQ Level 5)</td></tr>
+<tr><td>💻</td><td>Skilled in <b>HTML, CSS, JavaScript, Java</b> and <b>React Native</b></td></tr>
+<tr><td>🌍</td><td>Open to software internships and junior roles, remote or onsite</td></tr>
+</table>
+
+<div align="center">
+
+<svg width="300" height="26" viewBox="0 0 300 26" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="13" x2="128" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+  <circle cx="150" cy="13" r="4" fill="#C77BA6"/>
+  <circle cx="138" cy="13" r="2.3" fill="#F0D9A8"/>
+  <circle cx="162" cy="13" r="2.3" fill="#F0D9A8"/>
+  <line x1="172" y1="13" x2="300" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+</svg>
+
+</div>
+
+### 🌷 &nbsp;Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-F7CAD9?style=flat-square&logo=html5&logoColor=6B2D4E" />
-  <img src="https://img.shields.io/badge/CSS3-F7CAD9?style=flat-square&logo=css3&logoColor=6B2D4E" />
-  <img src="https://img.shields.io/badge/JavaScript-F0D9A8?style=flat-square&logo=javascript&logoColor=6B2D4E" />
-  <img src="https://img.shields.io/badge/Java-E8B4CB?style=flat-square&logo=openjdk&logoColor=6B2D4E" />
-  <img src="https://img.shields.io/badge/Bootstrap-C77BA6?style=flat-square&logo=bootstrap&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React_Native-F7CAD9?style=flat-square&logo=react&logoColor=6B2D4E" />
-  <img src="https://img.shields.io/badge/TypeScript-E8B4CB?style=flat-square&logo=typescript&logoColor=6B2D4E" />
-  <img src="https://img.shields.io/badge/Git-C77BA6?style=flat-square&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HTML5-F7CAD9?style=for-the-badge&logo=html5&logoColor=6B2D4E" />
+  <img src="https://img.shields.io/badge/CSS3-F7CAD9?style=for-the-badge&logo=css3&logoColor=6B2D4E" />
+  <img src="https://img.shields.io/badge/JavaScript-F0D9A8?style=for-the-badge&logo=javascript&logoColor=6B2D4E" />
+  <img src="https://img.shields.io/badge/Java-E8B4CB?style=for-the-badge&logo=openjdk&logoColor=6B2D4E" />
+  <img src="https://img.shields.io/badge/Bootstrap-C77BA6?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React_Native-F7CAD9?style=for-the-badge&logo=react&logoColor=6B2D4E" />
+  <img src="https://img.shields.io/badge/TypeScript-E8B4CB?style=for-the-badge&logo=typescript&logoColor=6B2D4E" />
+  <img src="https://img.shields.io/badge/Git-C77BA6?style=for-the-badge&logo=git&logoColor=ffffff" />
 </p>
 
 <br/>
 
 <div align="center">
+
+<svg width="300" height="26" viewBox="0 0 300 26" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="13" x2="128" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+  <circle cx="150" cy="13" r="4" fill="#C77BA6"/>
+  <circle cx="138" cy="13" r="2.3" fill="#F0D9A8"/>
+  <circle cx="162" cy="13" r="2.3" fill="#F0D9A8"/>
+  <line x1="172" y1="13" x2="300" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+</svg>
+
+</div>
+
+### 📈 &nbsp;Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkavi579&theme=default&hide_border=true&background=FFF9FB&ring=C77BA6&fire=F0D9A8&currStreakLabel=C77BA6&sideLabels=6B2D4E&currStreakNum=6B2D4E&sideNums=6B2D4E&dates=8A7482&border_radius=14" />
+</p>
+
+<br/>
+
+<div align="center">
+
+<svg width="300" height="26" viewBox="0 0 300 26" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="13" x2="128" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+  <circle cx="150" cy="13" r="4" fill="#C77BA6"/>
+  <circle cx="138" cy="13" r="2.3" fill="#F0D9A8"/>
+  <circle cx="162" cy="13" r="2.3" fill="#F0D9A8"/>
+  <line x1="172" y1="13" x2="300" y2="13" stroke="#E8B4CB" stroke-width="1"/>
+</svg>
+
 <sub>thanks for stopping by ✿ — always happy to talk code, design, or new ideas</sub>
+
 </div>
