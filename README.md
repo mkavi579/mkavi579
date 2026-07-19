@@ -1,8 +1,8 @@
 # Hi, I'm Kavishna
 
-**ICT Undergraduate & Web Developer**
+**Undergraduate & Web Developer**
 
-Completing my National Diploma in ICT (NVQ Level 5). I build with HTML, CSS, JavaScript and Java, and I'm open to software internships and junior developer roles, remote or onsite.
+ I build with HTML, CSS, JavaScript and Java, and I'm open to software internships and junior developer roles, remote or onsite.
 
 [![Email](https://img.shields.io/badge/Email-mkavishna13%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mkavishna13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mkavi579-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/mkavi579)
@@ -11,7 +11,7 @@ Completing my National Diploma in ICT (NVQ Level 5). I build with HTML, CSS, Jav
 
 ## About
 
-- Completing my National Diploma in ICT (NVQ Level 5)
+- Completing my degree in Software Technology
 - Skilled in HTML, CSS, JavaScript, Java, and React Native
 - Open to software internships and junior roles, remote or onsite
 
